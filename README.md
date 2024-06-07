@@ -46,8 +46,13 @@
 ```
 #### Updates a certain book from the SQL database using the SQL command
     const q = "UPDATE books SET `title`= ?, `decr`= ?, `price`= ?, `cover`= ? WHERE id = ?";
+    
+![Book_SQL](https://github.com/soham4021/BookStore_SQL/assets/92176024/c4b6acfe-4ae9-41ec-9731-2d082e92d721)
 
 
-![Uploading Book_SQL.JPG…]()
 
+![Update_Book_SQL](https://github.com/soham4021/BookStore_SQL/assets/92176024/2f9115d3-767a-4550-a14a-a2cfcaaeda41)
+
+
+![Add_Book_SQL](https://github.com/soham4021/BookStore_SQL/assets/92176024/e2dd524f-888f-415a-a9a3-a7483802f427)
 
