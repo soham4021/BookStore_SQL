@@ -45,8 +45,9 @@
   PUT /books/:id
 ```
 #### Updates a certain book from the SQL database using the SQL command
-    const q =
-		"UPDATE books SET `title`= ?, `decr`= ?, `price`= ?, `cover`= ? WHERE id = ?";
+    const q = "UPDATE books SET `title`= ?, `decr`= ?, `price`= ?, `cover`= ? WHERE id = ?";
 
+
+![Uploading Book_SQL.JPG…]()
 
 
